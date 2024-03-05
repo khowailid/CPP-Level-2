@@ -9,6 +9,7 @@
 - References
 - Pointers
 - Exception Handling
+- Recursion
 - Dynamic Memory Allocation
 - Dealing With Strings
 - Vectors Part II
